@@ -25,7 +25,7 @@ const adeelRaza = {
     "BS Information Technology (Sir Syed University of Engineering & Technology)"
   ],
   status: "Job searching 🔍",
-  openTo: ["Associate Software Engineer", ".NET Intern"]
+  openTo: ["Associate Software Engineer"]
 };
 ```
 
